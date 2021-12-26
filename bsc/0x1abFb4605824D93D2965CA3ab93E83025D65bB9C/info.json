@@ -1,0 +1,11 @@
+{
+ "name": "TANK",
+ "website": " ",
+ "description": "TANK",
+ "explorer": "https://bscscan.com/token/0x1abFb4605824D93D2965CA3ab93E83025D65bB9C",
+ "type": "BEP20",
+ "symbol": "TANK",
+ "decimals": 8,
+ "status": "active",
+ "id": "0x1abFb4605824D93D2965CA3ab93E83025D65bB9C"
+}
